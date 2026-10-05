@@ -5,5 +5,7 @@ public class Student {
 	{
 		System.out.println("Student Add");
 	}
-
+public void removeStudent()
+	{
+		System.out.println("Student Remove");
 }
